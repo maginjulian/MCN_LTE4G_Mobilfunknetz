@@ -1,0 +1,216 @@
+% Encoding: UTF-8
+
+@Misc{Goo19,
+  author = {3GPP},
+  title  = {{LTE Network Infrastructure and Elements}},
+  year   = {2019},
+  editor = {Google},
+  url    = {https://sites.google.com/site/lteencyclopedia/lte-network-infrastructure-and-elements},
+}
+
+@Misc{Zoi09,
+  author       = {{Zoicas, Adrian}},
+  title        = {{Overview of 3GPP Release 8 V0.3.3 (2014-09) 6}},
+  howpublished = {Internet},
+  month        = sep,
+  year         = {2009},
+  groups       = {MCC Department},
+  owner        = {ETSI},
+  timestamp    = {2019-09-09},
+  url          = {https://www.3gpp.org/ftp/Information/WORK_PLAN/Description_Releases/},
+}
+
+@Misc{Wan13,
+  author       = {Wannstrom, Jeanette},
+  title        = {LTE-Advanced},
+  howpublished = {Internet},
+  month        = jun,
+  year         = {2013},
+  owner        = {3GPP},
+  timestamp    = {2019-09-09},
+  url          = {https://www.3gpp.org/technologies/keywords-acro.nyms/97-lte-advanced},
+}
+
+@Misc{GPP18,
+  author       = {3GPP},
+  title        = {{3rd Generation Partnership Project; Technical Specification Group Radio Access Network; Requirements for further advancements for Evolved Universal Terrestrial Radio Access (E-UTRA) (LTE-Advanced) (Release 15)}},
+  howpublished = {Internet},
+  month        = jun,
+  year         = {2018},
+  keywords     = {LTE, Radio},
+  owner        = {3GPP},
+  timestamp    = {2019-09-09},
+  url          = {https://www.3gpp.org/ftp/Specs/archive/36_series/36.913/},
+}
+
+@Misc{Fir19,
+  author       = {Firmin, Frédéric},
+  title        = {{The Evolved Packet Core}},
+  howpublished = {Internet},
+  month        = sep,
+  year         = {2019},
+  groups       = {MCC},
+  owner        = {3GPP},
+  timestamp    = {2019-09-09},
+  url          = {https://www.3gpp.org/technologies/keywords-acronyms/100-the-evolved-packet-core},
+}
+
+@Misc{GPP19,
+  author       = {3GPP},
+  title        = {{TS 36.306 3rd Generation Partnership Project; Technical Specification Group Radio Access Network; Evolved Universal Terrestrial Radio Access (E-UTRA); User Equipment (UE) radio access capabilities (Release 15)}},
+  howpublished = {Internet},
+  month        = jun,
+  year         = {2019},
+  groups       = {MCC},
+  keywords     = {LTE, E-UTRAN, radio},
+  owner        = {3GPP},
+  timestamp    = {2019-09-09},
+  url          = {https://www.3gpp.org/ftp/Specs/archive/36_series/36.306/},
+}
+
+@Book{Sau06,
+  title         = {{Communication Systems for the Mobile Information Society}},
+  publisher     = {Wiley},
+  year          = {2006},
+  author        = {Sauter, M.},
+  isbn          = {9780470033203},
+  __markedentry = {[Wolfgang:6]},
+  url           = {https://books.google.at/books?id=E\_ZGuO2yVnkC},
+}
+
+@InBook{Ses11,
+  title     = {{LTE - The UMTS Long Term Evolution}},
+  publisher = {Wiley John + Sons},
+  year      = {2011},
+  author    = {Sesia, Stefania and Baker, Matthew and Toufik, Issam},
+  isbn      = {9780470660256},
+  date      = {2011-07-22},
+  ean       = {9780470660256},
+  pagetotal = {752},
+  url       = {https://www.ebook.de/de/product/11406019/stefania_sesia_matthew_baker_issam_toufik_lte_the_umts_long_term_evolution.html},
+}
+
+@Article{gacek2004many,
+  author    = {Gacek, Cristina and Arief, Budi},
+  title     = {The many meanings of open source},
+  journal   = {IEEE software},
+  year      = {2004},
+  volume    = {21},
+  number    = {1},
+  pages     = {34--40},
+  publisher = {IEEE},
+}
+
+@Misc{Cab01,
+  author       = {CableLabs},
+  title        = {A Little LTE for You \& Me: Build Your Own LTE Network on a Budget},
+  howpublished = {Internet},
+  month        = nov,
+  year         = {2017},
+  note         = {Accessed: 2019-09-18},
+  url          = {https://medium.com/@CableLabs/a-little-lte-for-you-me-build-your-own-lte-network-on-a-budget-86e9d38ed575},
+}
+
+@Misc{CroudLime01,
+  author       = {Lime Microsystems},
+  title        = {Flexible, next-generation, open source software-defined radio - LimeSDR},
+  howpublished = {Internet},
+  month        = aug,
+  year         = {2019},
+  url          = {https://www.crowdsupply.com/lime-micro/limesdr},
+}
+
+@Misc{OpenAir19,
+  author   = {OpenAirInterfaceTM Software Alliance (OSA)},
+  title    = {OpenAirInterfaceTM Software Alliance (OSA)},
+  year     = {2019},
+  keywords = {OpenSource Software},
+  url      = {https://www.openairinterface.org/},
+}
+
+@Misc{OSA192,
+  author       = {OpenAirInterfaceTM Software Alliance (OSA)},
+  title        = {OpenAirInterface Software Installation/Build Support},
+  howpublished = {Internet},
+  year         = {2019},
+  url          = {https://gitlab.eurecom.fr/oai/openairinterface5g/wikis/OpenAirSoftwareSupport},
+}
+
+@Misc{,
+  author       = {LTE Encyclopedia},
+  title        = {LTE Network Infrastructure and Elements},
+  howpublished = {Internet},
+  year         = {2019},
+  timestamp    = {2019-09-18},
+  url          = {https://sites.google.com/site/lteencyclopedia/lte-network-infrastructure-and-elements},
+}
+
+@Article{jondral2005software,
+  author    = {Jondral, Friedrich K},
+  title     = {Software-defined radio: basics and evolution to cognitive radio},
+  journal   = {EURASIP journal on wireless communications and networking},
+  year      = {2005},
+  volume    = {2005},
+  number    = {3},
+  pages     = {275--283},
+  publisher = {Hindawi Publishing Corp.},
+}
+
+@InProceedings{nikaein2014openairinterface,
+  author       = {Nikaein, Navid and Knopp, Raymond and Kaltenberger, Florian and Gauthier, Lionel and Bonnet, Christian and Nussbaum, Dominique and Ghaddab, Riadh},
+  title        = {OpenAirInterface: an open LTE network in a PC},
+  booktitle    = {Proceedings of the 20th annual international conference on Mobile computing and networking},
+  year         = {2014},
+  pages        = {305--308},
+  organization = {ACM},
+}
+
+@Misc{openAirInterfaceOverview19,
+  author       = {OpenAirInterface},
+  title        = {Towards Open Cellular Ecosystem OpenAirInterfaceTM (OAI): Towards Open Cellular Ecosystem},
+  howpublished = {Internet},
+  year         = {2019},
+  url          = {https://www.openairinterface.org/?page_id=864},
+}
+
+@InProceedings{eckermann2018tinylte,
+  author       = {Eckermann, Fabian and Gorczak, Philipp and Wietfeld, Christian},
+  title        = {tinyLTE: Lightweight, Ad Hoc Deployable Cellular Network for Vehicular Communication},
+  booktitle    = {2018 IEEE 87th Vehicular Technology Conference (VTC Spring)},
+  year         = {2018},
+  pages        = {1--5},
+  organization = {IEEE},
+}
+
+@InProceedings{gomez2016srslte,
+  author       = {Gomez-Miguelez, Ismael and Garcia-Saavedra, Andres and Sutton, Paul D and Serrano, Pablo and Cano, Cristina and Leith, Doug J},
+  title        = {srsLTE: an open-source platform for LTE evolution and experimentation},
+  booktitle    = {Proceedings of the Tenth ACM International Workshop on Wireless Network Testbeds, Experimental Evaluation, and Characterization},
+  year         = {2016},
+  pages        = {25--32},
+  organization = {ACM},
+}
+
+@InProceedings{kaltenberger2019openairinterface,
+  author       = {Kaltenberger, Florian and de Souza, Guy and Knopp, Raymond and Wang, Hongzhi},
+  title        = {The OpenAirInterface 5G New Radio Implementation: Current Status and Roadmap},
+  booktitle    = {WSA 2019; 23rd International ITG Workshop on Smart Antennas},
+  year         = {2019},
+  pages        = {1--5},
+  organization = {VDE},
+}
+
+@Article{puschmann2017implementing,
+  author  = {Puschmann, Andr{\'e} and Sutton, Paul and Gomez, Ismael},
+  title   = {Implementing nb-iot in software-experiences using the srslte library},
+  journal = {arXiv preprint arXiv:1705.03529},
+  year    = {2017},
+}
+
+@Misc{githubSrSLTE,
+  title = {Github repository srsLTE},
+  year  = {2019},
+  url   = {https://github.com/srsLTE/srsLTE},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

@@ -1,0 +1,45 @@
+\nomenclatureentry{a4G/LTE@[{4G/LTE}]\begingroup 4. Generation/Long-Term Evolution\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aR@[{R}]\begingroup Release\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{a3GPP@[{3GPP}]\begingroup Third Generation Partnership Project\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aIMT@[{IMT}]\begingroup International Mobile Telecommunications\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aITU-R@[{ITU-R}]\begingroup International Telecommunication Union Radiocommunication Sector\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aFHCW@[{FHCW}]\begingroup Fachhochschule Campus Wien\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aDL@[{DL}]\begingroup Download\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aUL@[{UL}]\begingroup Upload\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aGbit/s@[{Gbit/s}]\begingroup Gigabit pro Sekunde\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aHz@[{Hz}]\begingroup Hertz\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aCA@[{CA}]\begingroup Carrier Aggregation\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aRN@[{RN}]\begingroup Relay Nodes\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aETSI@[{ETSI}]\begingroup European Telecommunications Standards Institute\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aVoIP@[{VoIP}]\begingroup Voice over Internet Protocol\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aUE@[{UE}]\begingroup User Equipment\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{akm/h@[{km/h}]\begingroup Kilometer pro Stunde\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aIP@[{IP}]\begingroup Internet Protocol\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aE-UTRAN@[{E-UTRAN}]\begingroup Evolved Universal Terrestrial Radio Access Network\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aeNodeB@[{eNodeB}]\begingroup Evolved NodeB\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aEPC@[{EPC}]\begingroup Evolved Packet Core\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aIMS@[{IMS}]\begingroup IP Multimedia Core Network Subsystem\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{aAbb@[{Abb}]\begingroup Abbildung\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{aRAN@[{RAN}]\begingroup Radio Access Network\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{aCN@[{CN}]\begingroup Core Network\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{aEPS@[{EPS}]\begingroup Evolved Packet System\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{aPDN@[{PDN}]\begingroup Packet Data Network\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{aQoS@[{QoS}]\begingroup Quality of Service\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{aMME@[{MME}]\begingroup Mobility Management Entity\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{aSGW@[{SGW}]\begingroup Serving Gateway\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{aAS@[{AS}]\begingroup Access Stratum\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{aRRM@[{RRM}]\begingroup Radio Resource Management\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{aHSS@[{HSS}]\begingroup Home Subscriber Server\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{aPCRF@[{PCRF}]\begingroup Policy Control and Charging Rules Function\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{aAPN@[{APN}]\begingroup Access Point Name\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{aAUC@[{AUC}]\begingroup Authentication Center\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{aTFT@[{TFT}]\begingroup Traffic Flow Templates\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{aCDMA2000@[{CDMA2000}]\begingroup Code-Division Multiple Access\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{aWiMax\,\textsuperscript{\tiny\textregistered}@[{WiMax\,\textsuperscript{\tiny\textregistered}}]\begingroup Worldwide Interoperability for Microwave Access\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{aECM-IDLE@[{ECM-IDLE}]\begingroup EPS Connection Management — IDLE\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{aGPRS@[{GPRS}]\begingroup General Packet Radio Service\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{aUMTS@[{UMTS}]\begingroup Universal Mobile Telecommunications System\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{aNAS@[{NAS}]\begingroup Non Access Stratum\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{aS-TMSI@[{S-TMSI}]\begingroup SAE Temporary Mobile Subscriber Identity\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{aTA@[{TA}]\begingroup Tracking Area\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{aPLMN@[{PLMN}]\begingroup Public Land Mobile Network\nomeqref {0}|nompageref}{3}
