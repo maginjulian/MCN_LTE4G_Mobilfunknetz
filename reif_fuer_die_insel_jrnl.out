@@ -12,21 +12,30 @@
 \BOOKMARK [2][-]{subsection.3.1}{Use Cases}{section.3}% 12
 \BOOKMARK [2][-]{subsection.3.2}{State of the Art Marktanalyse}{section.3}% 13
 \BOOKMARK [2][-]{subsection.3.3}{HSS, EPC, PCRF}{section.3}% 14
-\BOOKMARK [2][-]{subsection.3.4}{Antennen Konfigurationen}{section.3}% 15
-\BOOKMARK [1][-]{section.4}{Open Source L\366sung}{}% 16
-\BOOKMARK [2][-]{subsection.4.1}{OpenAirInterface - OAI}{section.4}% 17
-\BOOKMARK [2][-]{subsection.4.2}{srsLTE}{section.4}% 18
-\BOOKMARK [2][-]{subsection.4.3}{tinyLTE}{section.4}% 19
-\BOOKMARK [2][-]{subsection.4.4}{Unterschiede}{section.4}% 20
-\BOOKMARK [1][-]{section.5}{Make or buy}{}% 21
-\BOOKMARK [1][-]{section.6}{Sicherheit}{}% 22
-\BOOKMARK [2][-]{subsection.6.1}{Schutz kritischer Infrastrukturen}{section.6}% 23
-\BOOKMARK [2][-]{subsection.6.2}{Regelungen f\374r Telekommunikationsunternehmen}{section.6}% 24
-\BOOKMARK [1][-]{section.7}{Conclusion}{}% 25
-\BOOKMARK [2][-]{subsection.7.1}{Zusammenfassung der Ergebnisse}{section.7}% 26
-\BOOKMARK [2][-]{subsection.7.2}{Ausblick}{section.7}% 27
-\BOOKMARK [1][-]{section*.8}{Literatur}{}% 28
-\BOOKMARK [1][-]{IEEEbiography.0}{Biographies}{}% 29
-\BOOKMARK [2][-]{IEEEbiography.1}{Felix Voglsam}{IEEEbiography.0}% 30
-\BOOKMARK [2][-]{IEEEbiography.2}{Julian Timo Magin}{IEEEbiography.0}% 31
-\BOOKMARK [2][-]{IEEEbiography.3}{Wolfgang Eisenhut}{IEEEbiography.0}% 32
+\BOOKMARK [2][-]{subsection.3.4}{Preise der Komponenten}{section.3}% 15
+\BOOKMARK [2][-]{subsection.3.5}{Antennen Konfigurationen}{section.3}% 16
+\BOOKMARK [1][-]{section.4}{Open Source L\366sung}{}% 17
+\BOOKMARK [2][-]{subsection.4.1}{OpenAirInterface - OAI}{section.4}% 18
+\BOOKMARK [2][-]{subsection.4.2}{srsLTE}{section.4}% 19
+\BOOKMARK [2][-]{subsection.4.3}{tinyLTE}{section.4}% 20
+\BOOKMARK [2][-]{subsection.4.4}{Unterschiede}{section.4}% 21
+\BOOKMARK [1][-]{section.5}{Make or buy}{}% 22
+\BOOKMARK [2][-]{subsection.5.1}{Kriterien f\374r Make or Buy Entscheidung}{section.5}% 23
+\BOOKMARK [3][-]{subsubsection.5.1.1}{Kosten}{subsection.5.1}% 24
+\BOOKMARK [3][-]{subsubsection.5.1.2}{Differenzierung der Antennenleistung}{subsection.5.1}% 25
+\BOOKMARK [3][-]{subsubsection.5.1.3}{Testbarkeit}{subsection.5.1}% 26
+\BOOKMARK [2][-]{subsection.5.2}{Entscheidung}{section.5}% 27
+\BOOKMARK [3][-]{subsubsection.5.2.1}{Begr\374ndung}{subsection.5.2}% 28
+\BOOKMARK [1][-]{section.6}{Sicherheit}{}% 29
+\BOOKMARK [2][-]{subsection.6.1}{Sicherheitsgef\344hrdungen}{section.6}% 30
+\BOOKMARK [2][-]{subsection.6.2}{Schutzma\337nahmen}{section.6}% 31
+\BOOKMARK [2][-]{subsection.6.3}{Kritische Infrastrukturen}{section.6}% 32
+\BOOKMARK [2][-]{subsection.6.4}{Regelungen f\374r Telekommunikationsunternehmen}{section.6}% 33
+\BOOKMARK [1][-]{section.7}{Conclusion}{}% 34
+\BOOKMARK [2][-]{subsection.7.1}{Zusammenfassung der Ergebnisse}{section.7}% 35
+\BOOKMARK [2][-]{subsection.7.2}{Ausblick}{section.7}% 36
+\BOOKMARK [1][-]{section*.8}{Literatur}{}% 37
+\BOOKMARK [1][-]{IEEEbiography.0}{Biographies}{}% 38
+\BOOKMARK [2][-]{IEEEbiography.1}{Felix Voglsam}{IEEEbiography.0}% 39
+\BOOKMARK [2][-]{IEEEbiography.2}{Julian Timo Magin}{IEEEbiography.0}% 40
+\BOOKMARK [2][-]{IEEEbiography.3}{Wolfgang Eisenhut}{IEEEbiography.0}% 41

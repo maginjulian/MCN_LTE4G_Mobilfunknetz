@@ -74,9 +74,29 @@ M.~Sauter, \emph{{Communication Systems for the Mobile Information
   Available: \url{https://books.google.at/books?id=E\_ZGuO2yVnkC}
 \BIBentrySTDinterwordspacing
 
+\bibitem{Tch18}
+J.~G. E.T.~Tchao, ``Performance evaluation of a deployed 4g lte network.''
+
+\bibitem{Eck18}
+C.~W. Fabian~Eckermann, Philipp~Gorczak, ``tinylte: Lightweight, ad-hoc
+  deployable cellular network for vehicular communication,'' in \emph{2018 IEEE
+  87th Vehicular Technology Conference (VTC Spring)}.
+
+\bibitem{Dat14}
+S.~K. Parul~Datta, ``Exploration and comparison of different 4g technologies
+  implementations: A survey.''
+
+\bibitem{Max19}
+\BIBentryALTinterwordspacing
+M.~M. R.~P. LTD. Global private lte market – industry analysis and forecast
+  (2018-2026) – by technology, application, service, industry, and geography.
+  [Online]. Available:
+  \url{https://www.maximizemarketresearch.com/market-report/global-private-lte-market/24669/#details}
+\BIBentrySTDinterwordspacing
+
 \bibitem{Sch19}
 \BIBentryALTinterwordspacing
-S.~Schöne. Ratgeber LTE Antennen. Maik Wildemann und Sebastian Schöne
+S.~Schöne. Ratgeber lte antennen. Maik Wildemann und Sebastian Schöne
   2.0Promotion GbR. [Online]. Available:
   \url{https://www.lte-anbieter.info/lte-hardware/antenne.php}
 \BIBentrySTDinterwordspacing
