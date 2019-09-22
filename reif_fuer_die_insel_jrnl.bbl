@@ -74,6 +74,13 @@ M.~Sauter, \emph{{Communication Systems for the Mobile Information
   Available: \url{https://books.google.at/books?id=E\_ZGuO2yVnkC}
 \BIBentrySTDinterwordspacing
 
+\bibitem{Sch19}
+\BIBentryALTinterwordspacing
+S.~Schöne. Ratgeber LTE Antennen. Maik Wildemann und Sebastian Schöne
+  2.0Promotion GbR. [Online]. Available:
+  \url{https://www.lte-anbieter.info/lte-hardware/antenne.php}
+\BIBentrySTDinterwordspacing
+
 \bibitem{gacek2004many}
 C.~Gacek and B.~Arief, ``The many meanings of open source,'' \emph{IEEE
   software}, vol.~21, no.~1, pp. 34--40, 2004.
@@ -140,5 +147,20 @@ I.~Gomez-Miguelez, A.~Garcia-Saavedra, P.~D. Sutton, P.~Serrano, C.~Cano, and
   Workshop on Wireless Network Testbeds, Experimental Evaluation, and
   Characterization}.\hskip 1em plus 0.5em minus 0.4em\relax ACM, 2016, pp.
   25--32.
+
+\bibitem{BSI17}
+\BIBentryALTinterwordspacing
+B.~für Sicherheit in~der Informationstechnik, ``Schutz kritischer
+  infrastrukturendurch it-sicherheitsgesetz und up kritis.'' [Online].
+  Available:
+  \url{https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/Broschueren/Schutz-Kritischer-Infrastrukturen-ITSig-u-UP-KRITIS.pdf?__blob=publicationFile&v=7}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Ger08}
+\BIBentryALTinterwordspacing
+B.~T. Heinz~Gerwing, Guido~Reckhaus, ``Öffentliche mobilfunknetze und ihre
+  sicherheitsaspekte.'' [Online]. Available:
+  \url{https://www.bsi.bund.de/DE/Publikationen/Broschueren/Oefms/mobilfunknetze.html}
+\BIBentrySTDinterwordspacing
 
 \end{thebibliography}
