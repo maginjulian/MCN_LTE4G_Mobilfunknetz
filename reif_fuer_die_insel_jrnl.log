@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.5.10)  24 SEP 2019 19:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.5.10)  24 SEP 2019 22:07
 entering extended mode
 **./reif_fuer_die_insel_jrnl.tex
 (reif_fuer_die_insel_jrnl.tex
@@ -504,25 +504,25 @@ LaTeX Info: Redefining \nameref on input line 330.
 
 
 (zusammenfassung.tex) (einleitung.tex
-Underfull \hbox (badness 5161) in paragraph at lines 18--21
-[]\OT1/ptm/m/n/10 ELCHE In-fra-struk-tur ist f[]ur ein state-of-the-art
+Underfull \hbox (badness 4291) in paragraph at lines 18--21
+[]\OT1/ptm/m/n/10 ELCHE In-fra-struk-tur ist f[]ur ein State-of-the-art
  []
 
-) (aufbau_lte.tex
+[1{C:/Users/Julian/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+])
+(aufbau_lte.tex
 Underfull \hbox (badness 2376) in paragraph at lines 17--18
 []\OT1/ptm/m/n/10 Der Trei-ber bei der Ent-wick-lung von LTE war die
  []
 
-<images/LTE_Architektur.pdf, id=135, 714.41907pt x 277.035pt>
+<images/LTE_Architektur.pdf, id=152, 714.41907pt x 277.035pt>
 File: images/LTE_Architektur.pdf Graphic file (type pdf)
 <use images/LTE_Architektur.pdf>
 Package pdftex.def Info: images/LTE_Architektur.pdf  used on input line 23.
 (pdftex.def)             Requested size: 252.0pt x 97.72037pt.
-[1{C:/Users/Julian/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
-
-
-]
-<images/E_UTRAN_Architektur.png, id=158, 253.69781pt x 200.24812pt>
+<images/E_UTRAN_Architektur.png, id=161, 253.69781pt x 200.24812pt>
 File: images/E_UTRAN_Architektur.png Graphic file (type png)
 <use images/E_UTRAN_Architektur.png>
 Package pdftex.def Info: images/E_UTRAN_Architektur.png  used on input line 39.
@@ -531,6 +531,7 @@ Package pdftex.def Info: images/E_UTRAN_Architektur.png  used on input line 39.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [2 <./images/LTE_Architektur.pdf>]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 48.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -542,18 +543,17 @@ File: omsptm.fd
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <5> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 54.
- [2 <./images/LTE_Architektur.pdf> <./images/E_UTRAN_Architektur.png>]
-<images/Roaming.png, id=182, 429.85594pt x 195.73125pt>
+<images/Roaming.png, id=186, 429.85594pt x 195.73125pt>
 File: images/Roaming.png Graphic file (type png)
 <use images/Roaming.png>
-Package pdftex.def Info: images/Roaming.png  used on input line 63.
+Package pdftex.def Info: images/Roaming.png  used on input line 64.
 (pdftex.def)             Requested size: 252.0pt x 114.7487pt.
-)
-(komponenten.tex [3 <./images/Roaming.png>]
-<images/tabellemcnantennen.png, id=199, 913.91437pt x 526.96875pt>
+) (komponenten.tex [3 <./images/E_UTRAN_Architektur.png> <./images/Roaming.png>
+]
+<images/tabellemcnantennen.png, id=202, 913.91437pt x 526.96875pt>
 File: images/tabellemcnantennen.png Graphic file (type png)
 <use images/tabellemcnantennen.png>
-Package pdftex.def Info: images/tabellemcnantennen.png  used on input line 56.
+Package pdftex.def Info: images/tabellemcnantennen.png  used on input line 33.
 (pdftex.def)             Requested size: 516.0pt x 297.53687pt.
 ) (open_source.tex
 Underfull \hbox (badness 1603) in paragraph at lines 17--19
@@ -565,7 +565,7 @@ Underfull \hbox (badness 2245) in paragraph at lines 17--19
 \OT1/ptm/m/n/10 Soft-wa-re oft-mals mit ein-ge-schr[]ankten, oder kei-nen Be-
  []
 
-<images/BestandTeileOAI.png, id=207, 620.3175pt x 214.8025pt>
+<images/BestandTeileOAI.png, id=210, 620.3175pt x 214.8025pt>
 File: images/BestandTeileOAI.png Graphic file (type png)
 <use images/BestandTeileOAI.png>
 Package pdftex.def Info: images/BestandTeileOAI.png  used on input line 40.
@@ -575,7 +575,7 @@ Overfull \hbox (12.89685pt too wide) in paragraph at lines 40--41
  [][] 
  []
 
-<images/ssrLTE_Module.png, id=214, 441.65pt x 288.07625pt>
+<images/ssrLTE_Module.png, id=217, 441.65pt x 288.07625pt>
 File: images/ssrLTE_Module.png Graphic file (type png)
 <use images/ssrLTE_Module.png>
 Package pdftex.def Info: images/ssrLTE_Module.png  used on input line 58.
@@ -587,12 +587,12 @@ Overfull \hbox (7.73969pt too wide) in paragraph at lines 58--59
 
 [4]) (make_buy.tex [5 <./images/tabellemcnantennen.png> <./images/BestandTeileO
 AI.png>]) (sicherheit.tex [6 <./images/ssrLTE_Module.png>]) (conclusion.tex)
-(reif_fuer_die_insel_jrnl.nls) (reif_fuer_die_insel_jrnl.bbl
+(reif_fuer_die_insel_jrnl.nls [7]) (reif_fuer_die_insel_jrnl.bbl
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 28.
- [7]
+
 Underfull \hbox (badness 2096) in paragraph at lines 148--151
 \OT1/ptm/m/n/8 software-experiences using the srsl-te li-bra-ry,'' \OT1/ptm/m/i
 t/8 ar-Xiv pre-print ar-
@@ -619,17 +619,17 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 483.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 483.
 Package rerunfilecheck Info: File `reif_fuer_die_insel_jrnl.out' has not change
 d.
-(rerunfilecheck)             Checksum: E11FA4F08781D61B5D23B851111D3A24;1941.
+(rerunfilecheck)             Checksum: B69AED551C472B39D0164850BA0BBDB2;1941.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 483.
  ) 
 Here is how much of TeX's memory you used:
  8882 strings out of 492946
  147424 string characters out of 3125822
- 291440 words of memory out of 3000000
+ 290440 words of memory out of 3000000
  12558 multiletter control sequences out of 15000+200000
  40267 words of font info for 74 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
- 54i,9n,77p,2076b,471s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 54i,9n,77p,2097b,402s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Julian/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.en
 c}<C:/Users/Julian/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmsy5.pfb><C:/Users/Julian/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
@@ -638,9 +638,9 @@ fonts/type1/urw/times/utmb8a.pfb><C:/Users/Julian/AppData/Local/Programs/MiKTeX
  2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Julian/AppData/Local/Programs/
 MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Julian/AppData/Local/Prog
 rams/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on reif_fuer_die_insel_jrnl.pdf (8 pages, 794838 bytes).
+Output written on reif_fuer_die_insel_jrnl.pdf (8 pages, 795285 bytes).
 PDF statistics:
- 331 PDF objects out of 1000 (max. 8388607)
+ 333 PDF objects out of 1000 (max. 8388607)
  71 named destinations out of 1000 (max. 500000)
  271 words of extra memory for PDF output out of 10000 (max. 10000000)
 
