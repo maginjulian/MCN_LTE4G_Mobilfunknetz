@@ -1,9 +1,9 @@
 \nomenclatureentry{a4G/LTE@[{4G/LTE}]\begingroup 4. Generation/Long-Term Evolution\nomeqref {0}|nompageref}{1}
 \nomenclatureentry{aR@[{R}]\begingroup Release\nomeqref {0}|nompageref}{1}
 \nomenclatureentry{a3GPP@[{3GPP}]\begingroup Third Generation Partnership Project\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aFHCW@[{FHCW}]\begingroup Fachhochschule Campus Wien\nomeqref {0}|nompageref}{1}
 \nomenclatureentry{aIMT@[{IMT}]\begingroup International Mobile Telecommunications\nomeqref {0}|nompageref}{1}
 \nomenclatureentry{aITU-R@[{ITU-R}]\begingroup International Telecommunication Union Radiocommunication Sector\nomeqref {0}|nompageref}{1}
-\nomenclatureentry{aFHCW@[{FHCW}]\begingroup Fachhochschule Campus Wien\nomeqref {0}|nompageref}{1}
 \nomenclatureentry{aDL@[{DL}]\begingroup Download\nomeqref {0}|nompageref}{1}
 \nomenclatureentry{aUL@[{UL}]\begingroup Upload\nomeqref {0}|nompageref}{1}
 \nomenclatureentry{aGbit/s@[{Gbit/s}]\begingroup Gigabit pro Sekunde\nomeqref {0}|nompageref}{1}
@@ -37,9 +37,9 @@
 \nomenclatureentry{aCDMA2000@[{CDMA2000}]\begingroup Code-Division Multiple Access\nomeqref {0}|nompageref}{2}
 \nomenclatureentry{aWiMax\,\textsuperscript{\tiny\textregistered}@[{WiMax\,\textsuperscript{\tiny\textregistered}}]\begingroup Worldwide Interoperability for Microwave Access\nomeqref {0}|nompageref}{2}
 \nomenclatureentry{aECM-IDLE@[{ECM-IDLE}]\begingroup EPS Connection Management — IDLE\nomeqref {0}|nompageref}{2}
-\nomenclatureentry{aGPRS@[{GPRS}]\begingroup General Packet Radio Service\nomeqref {0}|nompageref}{2}
-\nomenclatureentry{aUMTS@[{UMTS}]\begingroup Universal Mobile Telecommunications System\nomeqref {0}|nompageref}{2}
-\nomenclatureentry{aNAS@[{NAS}]\begingroup Non Access Stratum\nomeqref {0}|nompageref}{2}
-\nomenclatureentry{aS-TMSI@[{S-TMSI}]\begingroup SAE Temporary Mobile Subscriber Identity\nomeqref {0}|nompageref}{2}
-\nomenclatureentry{aTA@[{TA}]\begingroup Tracking Area\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{aGPRS@[{GPRS}]\begingroup General Packet Radio Service\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{aUMTS@[{UMTS}]\begingroup Universal Mobile Telecommunications System\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{aNAS@[{NAS}]\begingroup Non Access Stratum\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{aS-TMSI@[{S-TMSI}]\begingroup SAE Temporary Mobile Subscriber Identity\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{aTA@[{TA}]\begingroup Tracking Area\nomeqref {0}|nompageref}{3}
 \nomenclatureentry{aPLMN@[{PLMN}]\begingroup Public Land Mobile Network\nomeqref {0}|nompageref}{3}

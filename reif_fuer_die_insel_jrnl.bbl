@@ -77,10 +77,11 @@ M.~Sauter, \emph{{Communication Systems for the Mobile Information
 \bibitem{Tch18}
 J.~G. E.T.~Tchao, ``Performance evaluation of a deployed 4g lte network.''
 
-\bibitem{Eck18}
-C.~W. Fabian~Eckermann, Philipp~Gorczak, ``tinylte: Lightweight, ad-hoc
+\bibitem{eckermann2018tinylte}
+F.~Eckermann, P.~Gorczak, and C.~Wietfeld, ``tinylte: Lightweight, ad hoc
   deployable cellular network for vehicular communication,'' in \emph{2018 IEEE
-  87th Vehicular Technology Conference (VTC Spring)}.
+  87th Vehicular Technology Conference (VTC Spring)}.\hskip 1em plus 0.5em
+  minus 0.4em\relax IEEE, 2018, pp. 1--5.
 
 \bibitem{Dat14}
 S.~K. Parul~Datta, ``Exploration and comparison of different 4g technologies
@@ -153,12 +154,6 @@ A.~Puschmann, P.~Sutton, and I.~Gomez, ``Implementing nb-iot in
 ``Github repository srslte,'' Internet, 2019. [Online]. Available:
   \url{https://github.com/srsLTE/srsLTE}
 \BIBentrySTDinterwordspacing
-
-\bibitem{eckermann2018tinylte}
-F.~Eckermann, P.~Gorczak, and C.~Wietfeld, ``tinylte: Lightweight, ad hoc
-  deployable cellular network for vehicular communication,'' in \emph{2018 IEEE
-  87th Vehicular Technology Conference (VTC Spring)}.\hskip 1em plus 0.5em
-  minus 0.4em\relax IEEE, 2018, pp. 1--5.
 
 \bibitem{gomez2016srslte}
 I.~Gomez-Miguelez, A.~Garcia-Saavedra, P.~D. Sutton, P.~Serrano, C.~Cano, and

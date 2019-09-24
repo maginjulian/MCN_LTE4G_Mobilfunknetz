@@ -6,9 +6,8 @@ Warning--entry type for "Tch18" isn't style-file defined
 -- IEEEtran.bst version 1.12 (2007/01/11) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
-Warning--empty year in Eck18
 Warning--empty journal in Dat14
 Warning--empty year in Dat14
 
 Done.
-(There were 4 warnings)
+(There were 3 warnings)
