@@ -21,6 +21,23 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
+\bibitem{Tch18}
+J.~G. E.T.~Tchao, ``Performance evaluation of a deployed 4g lte network.''
+
+\bibitem{eckermann2018tinylte}
+F.~Eckermann, P.~Gorczak, and C.~Wietfeld, ``tinylte: Lightweight, ad hoc
+  deployable cellular network for vehicular communication,'' in \emph{2018 IEEE
+  87th Vehicular Technology Conference (VTC Spring)}.\hskip 1em plus 0.5em
+  minus 0.4em\relax IEEE, 2018, pp. 1--5.
+
+\bibitem{Max19}
+\BIBentryALTinterwordspacing
+M.~M. R.~P. LTD. Global private lte market – industry analysis and forecast
+  (2018-2026) – by technology, application, service, industry, and geography.
+  [Online]. Available:
+  \url{https://www.maximizemarketresearch.com/market-report/global-private-lte-market/24669/#details}
+\BIBentrySTDinterwordspacing
+
 \bibitem{Zoi09}
 \BIBentryALTinterwordspacing
 {Zoicas, Adrian}, ``{Overview of 3GPP Release 8 V0.3.3 (2014-09) 6},''
@@ -74,26 +91,9 @@ M.~Sauter, \emph{{Communication Systems for the Mobile Information
   Available: \url{https://books.google.at/books?id=E\_ZGuO2yVnkC}
 \BIBentrySTDinterwordspacing
 
-\bibitem{Tch18}
-J.~G. E.T.~Tchao, ``Performance evaluation of a deployed 4g lte network.''
-
-\bibitem{eckermann2018tinylte}
-F.~Eckermann, P.~Gorczak, and C.~Wietfeld, ``tinylte: Lightweight, ad hoc
-  deployable cellular network for vehicular communication,'' in \emph{2018 IEEE
-  87th Vehicular Technology Conference (VTC Spring)}.\hskip 1em plus 0.5em
-  minus 0.4em\relax IEEE, 2018, pp. 1--5.
-
 \bibitem{Dat14}
 S.~K. Parul~Datta, ``Exploration and comparison of different 4g technologies
   implementations: A survey.''
-
-\bibitem{Max19}
-\BIBentryALTinterwordspacing
-M.~M. R.~P. LTD. Global private lte market – industry analysis and forecast
-  (2018-2026) – by technology, application, service, industry, and geography.
-  [Online]. Available:
-  \url{https://www.maximizemarketresearch.com/market-report/global-private-lte-market/24669/#details}
-\BIBentrySTDinterwordspacing
 
 \bibitem{Sch19}
 \BIBentryALTinterwordspacing
@@ -106,11 +106,20 @@ S.~Schöne. Ratgeber lte antennen. Maik Wildemann und Sebastian Schöne
 C.~Gacek and B.~Arief, ``The many meanings of open source,'' \emph{IEEE
   software}, vol.~21, no.~1, pp. 34--40, 2004.
 
+\bibitem{rosen2005open}
+L.~Rosen, \emph{Open source licensing}.\hskip 1em plus 0.5em minus 0.4em\relax
+  Prentice Hall, 2005, vol. 692.
+
 \bibitem{CroudLime01}
 \BIBentryALTinterwordspacing
 L.~Microsystems, ``Flexible, next-generation, open source software-defined
   radio - limesdr,'' Internet, Aug. 2019. [Online]. Available:
   \url{https://www.crowdsupply.com/lime-micro/limesdr}
+\BIBentrySTDinterwordspacing
+
+\bibitem{limeHp}
+\BIBentryALTinterwordspacing
+ [Online]. Available: \url{https://limemicro.com/community/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{jondral2005software}
@@ -162,6 +171,11 @@ I.~Gomez-Miguelez, A.~Garcia-Saavedra, P.~D. Sutton, P.~Serrano, C.~Cano, and
   Workshop on Wireless Network Testbeds, Experimental Evaluation, and
   Characterization}.\hskip 1em plus 0.5em minus 0.4em\relax ACM, 2016, pp.
   25--32.
+
+\bibitem{tinyLteGithub}
+\BIBentryALTinterwordspacing
+``tinylte.'' [Online]. Available: \url{https://github.com/tudo-cni/tinyLTE}
+\BIBentrySTDinterwordspacing
 
 \bibitem{BSI17}
 \BIBentryALTinterwordspacing
