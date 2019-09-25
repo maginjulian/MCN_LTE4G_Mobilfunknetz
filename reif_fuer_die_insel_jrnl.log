@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.5.10)  25 SEP 2019 22:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.5.10)  25 SEP 2019 23:02
 entering extended mode
 **./reif_fuer_die_insel_jrnl.tex
 (reif_fuer_die_insel_jrnl.tex
@@ -625,10 +625,10 @@ d.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 483.
  ) 
 Here is how much of TeX's memory you used:
- 8888 strings out of 492946
- 147510 string characters out of 3125822
- 289440 words of memory out of 3000000
- 12561 multiletter control sequences out of 15000+200000
+ 8887 strings out of 492946
+ 147495 string characters out of 3125822
+ 292440 words of memory out of 3000000
+ 12560 multiletter control sequences out of 15000+200000
  40267 words of font info for 74 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
  54i,9n,77p,2097b,402s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -640,7 +640,7 @@ fonts/type1/urw/times/utmb8a.pfb><C:/Users/Julian/AppData/Local/Programs/MiKTeX
  2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Julian/AppData/Local/Programs/
 MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Julian/AppData/Local/Prog
 rams/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on reif_fuer_die_insel_jrnl.pdf (8 pages, 797896 bytes).
+Output written on reif_fuer_die_insel_jrnl.pdf (8 pages, 798345 bytes).
 PDF statistics:
  343 PDF objects out of 1000 (max. 8388607)
  74 named destinations out of 1000 (max. 500000)
