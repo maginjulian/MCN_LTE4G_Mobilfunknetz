@@ -192,4 +192,7 @@ B.~T. Heinz~Gerwing, Guido~Reckhaus, ``Öffentliche mobilfunknetze und ihre
   \url{https://www.bsi.bund.de/DE/Publikationen/Broschueren/Oefms/mobilfunknetze.html}
 \BIBentrySTDinterwordspacing
 
+\bibitem{Wol19}
+J.~Wolf-Hofer, Ed., \emph{IlV Mobile Communication Networks mcn-09-5g}.
+
 \end{thebibliography}
