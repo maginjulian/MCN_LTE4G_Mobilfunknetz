@@ -18,15 +18,15 @@
 \nomenclatureentry{aE-UTRAN@[{E-UTRAN}]\begingroup Evolved Universal Terrestrial Radio Access Network\nomeqref {0}|nompageref}{2}
 \nomenclatureentry{aeNodeB@[{eNodeB}]\begingroup Evolved NodeB\nomeqref {0}|nompageref}{2}
 \nomenclatureentry{aEPC@[{EPC}]\begingroup Evolved Packet Core\nomeqref {0}|nompageref}{2}
-\nomenclatureentry{aIMS@[{IMS}]\begingroup IP Multimedia Core Network Subsystem\nomeqref {0}|nompageref}{2}
-\nomenclatureentry{aAbb@[{Abb}]\begingroup Abbildung\nomeqref {0}|nompageref}{2}
-\nomenclatureentry{aRAN@[{RAN}]\begingroup Radio Access Network\nomeqref {0}|nompageref}{2}
-\nomenclatureentry{aCN@[{CN}]\begingroup Core Network\nomeqref {0}|nompageref}{2}
-\nomenclatureentry{aEPS@[{EPS}]\begingroup Evolved Packet System\nomeqref {0}|nompageref}{2}
-\nomenclatureentry{aPDN@[{PDN}]\begingroup Packet Data Network\nomeqref {0}|nompageref}{2}
-\nomenclatureentry{aQoS@[{QoS}]\begingroup Quality of Service\nomeqref {0}|nompageref}{2}
-\nomenclatureentry{aMME@[{MME}]\begingroup Mobility Management Entity\nomeqref {0}|nompageref}{2}
-\nomenclatureentry{aSGW@[{SGW}]\begingroup Serving Gateway\nomeqref {0}|nompageref}{2}
+\nomenclatureentry{aIMS@[{IMS}]\begingroup IP Multimedia Core Network Subsystem\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{aAbb@[{Abb}]\begingroup Abbildung\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{aRAN@[{RAN}]\begingroup Radio Access Network\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{aCN@[{CN}]\begingroup Core Network\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{aEPS@[{EPS}]\begingroup Evolved Packet System\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{aPDN@[{PDN}]\begingroup Packet Data Network\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{aQoS@[{QoS}]\begingroup Quality of Service\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{aMME@[{MME}]\begingroup Mobility Management Entity\nomeqref {0}|nompageref}{3}
+\nomenclatureentry{aSGW@[{SGW}]\begingroup Serving Gateway\nomeqref {0}|nompageref}{3}
 \nomenclatureentry{aAS@[{AS}]\begingroup Access Stratum\nomeqref {0}|nompageref}{3}
 \nomenclatureentry{aRRM@[{RRM}]\begingroup Radio Resource Management\nomeqref {0}|nompageref}{3}
 \nomenclatureentry{aHSS@[{HSS}]\begingroup Home Subscriber Server\nomeqref {0}|nompageref}{3}
@@ -42,5 +42,3 @@
 \nomenclatureentry{aNAS@[{NAS}]\begingroup Non Access Stratum\nomeqref {0}|nompageref}{3}
 \nomenclatureentry{aS-TMSI@[{S-TMSI}]\begingroup SAE Temporary Mobile Subscriber Identity\nomeqref {0}|nompageref}{3}
 \nomenclatureentry{aTA@[{TA}]\begingroup Tracking Area\nomeqref {0}|nompageref}{3}
-\nomenclatureentry{aPLMN@[{PLMN}]\begingroup Public Land Mobile Network\nomeqref {0}|nompageref}{3}
-\nomenclatureentry{aAbb@[{Abb}]\begingroup Abbildung\nomeqref {0}|nompageref}{3}

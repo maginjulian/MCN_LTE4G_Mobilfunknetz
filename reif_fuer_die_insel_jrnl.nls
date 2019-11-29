@@ -1,50 +1,49 @@
 
 \begin{thenomenclature} 
 \nomgroup{A}
-  \item [{3GPP}]\begingroup Third Generation Partnership Project\nomeqref {0}\nompageref{1}
+  \item [{3GPP}]\begingroup Third Generation Partnership Project\nomeqref {0}\nompageref{2}
   \item [{4G/LTE}]\begingroup 4. Generation/Long-Term Evolution\nomeqref {0}\nompageref{1}
   \item [{Abb}]\begingroup Abbildung\nomeqref {0}\nompageref{2}
-  \item [{APN}]\begingroup Access Point Name\nomeqref {0}\nompageref{2}
-  \item [{AS}]\begingroup Access Stratum\nomeqref {0}\nompageref{2}
-  \item [{AUC}]\begingroup Authentication Center\nomeqref {0}\nompageref{2}
-  \item [{CA}]\begingroup Carrier Aggregation\nomeqref {0}\nompageref{1}
-  \item [{CDMA2000}]\begingroup Code-Division Multiple Access\nomeqref {0}\nompageref{2}
+  \item [{APN}]\begingroup Access Point Name\nomeqref {0}\nompageref{3}
+  \item [{AS}]\begingroup Access Stratum\nomeqref {0}\nompageref{3}
+  \item [{AUC}]\begingroup Authentication Center\nomeqref {0}\nompageref{3}
+  \item [{CA}]\begingroup Carrier Aggregation\nomeqref {0}\nompageref{2}
+  \item [{CDMA2000}]\begingroup Code-Division Multiple Access\nomeqref {0}\nompageref{3}
   \item [{CN}]\begingroup Core Network\nomeqref {0}\nompageref{2}
-  \item [{DL}]\begingroup Download\nomeqref {0}\nompageref{1}
-  \item [{E-UTRAN}]\begingroup Evolved Universal Terrestrial Radio Access Network\nomeqref {0}\nompageref{1}
-  \item [{ECM-IDLE}]\begingroup EPS Connection Management — IDLE\nomeqref {0}\nompageref{2}
-  \item [{eNodeB}]\begingroup Evolved NodeB\nomeqref {0}\nompageref{1}
-  \item [{EPC}]\begingroup Evolved Packet Core\nomeqref {0}\nompageref{1}
+  \item [{DL}]\begingroup Download\nomeqref {0}\nompageref{2}
+  \item [{E-UTRAN}]\begingroup Evolved Universal Terrestrial Radio Access Network\nomeqref {0}\nompageref{2}
+  \item [{ECM-IDLE}]\begingroup EPS Connection Management — IDLE\nomeqref {0}\nompageref{3}
+  \item [{eNodeB}]\begingroup Evolved NodeB\nomeqref {0}\nompageref{2}
+  \item [{EPC}]\begingroup Evolved Packet Core\nomeqref {0}\nompageref{2}
   \item [{EPS}]\begingroup Evolved Packet System\nomeqref {0}\nompageref{2}
-  \item [{ETSI}]\begingroup European Telecommunications Standards Institute\nomeqref {0}\nompageref{1}
+  \item [{ETSI}]\begingroup European Telecommunications Standards Institute\nomeqref {0}\nompageref{2}
   \item [{FHCW}]\begingroup Fachhochschule Campus Wien\nomeqref {0}\nompageref{1}
-  \item [{Gbit/s}]\begingroup Gigabit pro Sekunde\nomeqref {0}\nompageref{1}
-  \item [{GPRS}]\begingroup General Packet Radio Service\nomeqref {0}\nompageref{2}
-  \item [{HSS}]\begingroup Home Subscriber Server\nomeqref {0}\nompageref{2}
-  \item [{Hz}]\begingroup Hertz\nomeqref {0}\nompageref{1}
+  \item [{Gbit/s}]\begingroup Gigabit pro Sekunde\nomeqref {0}\nompageref{2}
+  \item [{GPRS}]\begingroup General Packet Radio Service\nomeqref {0}\nompageref{3}
+  \item [{HSS}]\begingroup Home Subscriber Server\nomeqref {0}\nompageref{3}
+  \item [{Hz}]\begingroup Hertz\nomeqref {0}\nompageref{2}
   \item [{IMS}]\begingroup IP Multimedia Core Network Subsystem\nomeqref {0}\nompageref{2}
-  \item [{IMT}]\begingroup International Mobile Telecommunications\nomeqref {0}\nompageref{1}
-  \item [{IP}]\begingroup Internet Protocol\nomeqref {0}\nompageref{1}
-  \item [{ITU-R}]\begingroup International Telecommunication Union Radiocommunication Sector\nomeqref {0}\nompageref{1}
-  \item [{km/h}]\begingroup Kilometer pro Stunde\nomeqref {0}\nompageref{1}
-  \item [{MME}]\begingroup Mobility Management Entity\nomeqref {0}\nompageref{2}
-  \item [{NAS}]\begingroup Non Access Stratum\nomeqref {0}\nompageref{2}
-  \item [{PCRF}]\begingroup Policy Control and Charging Rules Function\nomeqref {0}\nompageref{2}
+  \item [{IMT}]\begingroup International Mobile Telecommunications\nomeqref {0}\nompageref{2}
+  \item [{IP}]\begingroup Internet Protocol\nomeqref {0}\nompageref{2}
+  \item [{ITU-R}]\begingroup International Telecommunication Union Radiocommunication Sector\nomeqref {0}\nompageref{2}
+  \item [{km/h}]\begingroup Kilometer pro Stunde\nomeqref {0}\nompageref{2}
+  \item [{MME}]\begingroup Mobility Management Entity\nomeqref {0}\nompageref{3}
+  \item [{NAS}]\begingroup Non Access Stratum\nomeqref {0}\nompageref{3}
+  \item [{PCRF}]\begingroup Policy Control and Charging Rules Function\nomeqref {0}\nompageref{3}
   \item [{PDN}]\begingroup Packet Data Network\nomeqref {0}\nompageref{2}
-  \item [{PLMN}]\begingroup Public Land Mobile Network\nomeqref {0}\nompageref{3}
   \item [{QoS}]\begingroup Quality of Service\nomeqref {0}\nompageref{2}
-  \item [{R}]\begingroup Release\nomeqref {0}\nompageref{1}
+  \item [{R}]\begingroup Release\nomeqref {0}\nompageref{2}
   \item [{RAN}]\begingroup Radio Access Network\nomeqref {0}\nompageref{2}
-  \item [{RN}]\begingroup Relay Nodes\nomeqref {0}\nompageref{1}
-  \item [{RRM}]\begingroup Radio Resource Management\nomeqref {0}\nompageref{2}
-  \item [{S-TMSI}]\begingroup SAE Temporary Mobile Subscriber Identity\nomeqref {0}\nompageref{2}
-  \item [{SGW}]\begingroup Serving Gateway\nomeqref {0}\nompageref{2}
-  \item [{TA}]\begingroup Tracking Area\nomeqref {0}\nompageref{2}
-  \item [{TFT}]\begingroup Traffic Flow Templates\nomeqref {0}\nompageref{2}
-  \item [{UE}]\begingroup User Equipment\nomeqref {0}\nompageref{1}
-  \item [{UL}]\begingroup Upload\nomeqref {0}\nompageref{1}
-  \item [{UMTS}]\begingroup Universal Mobile Telecommunications System\nomeqref {0}\nompageref{2}
-  \item [{VoIP}]\begingroup Voice over Internet Protocol\nomeqref {0}\nompageref{1}
-  \item [{WiMax\,\textsuperscript{\tiny\textregistered}}]\begingroup Worldwide Interoperability for Microwave Access\nomeqref {0}\nompageref{2}
+  \item [{RN}]\begingroup Relay Nodes\nomeqref {0}\nompageref{2}
+  \item [{RRM}]\begingroup Radio Resource Management\nomeqref {0}\nompageref{3}
+  \item [{S-TMSI}]\begingroup SAE Temporary Mobile Subscriber Identity\nomeqref {0}\nompageref{3}
+  \item [{SGW}]\begingroup Serving Gateway\nomeqref {0}\nompageref{3}
+  \item [{TA}]\begingroup Tracking Area\nomeqref {0}\nompageref{3}
+  \item [{TFT}]\begingroup Traffic Flow Templates\nomeqref {0}\nompageref{3}
+  \item [{UE}]\begingroup User Equipment\nomeqref {0}\nompageref{2}
+  \item [{UL}]\begingroup Upload\nomeqref {0}\nompageref{2}
+  \item [{UMTS}]\begingroup Universal Mobile Telecommunications System\nomeqref {0}\nompageref{3}
+  \item [{VoIP}]\begingroup Voice over Internet Protocol\nomeqref {0}\nompageref{2}
+  \item [{WiMax\,\textsuperscript{\tiny\textregistered}}]\begingroup Worldwide Interoperability for Microwave Access\nomeqref {0}\nompageref{3}
 
 \end{thenomenclature}
